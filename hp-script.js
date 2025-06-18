@@ -1,0 +1,1 @@
+console.log("Website versi HP siap bro!");
